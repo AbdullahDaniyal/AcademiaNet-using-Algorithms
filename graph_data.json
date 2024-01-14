@@ -1,0 +1,38 @@
+{
+"nodes": [
+{ "id": 0, "label": "Mati"},
+{ "id": 1, "label": "Usman"},
+{ "id": 2, "label": "Bilal"},
+{ "id": 3, "label": "Tauseef"},
+{ "id": 4, "label": "Ibrahim"},
+{ "id": 5, "label": "Eman"},
+{ "id": 6, "label": "Abdurehman"},
+{ "id": 7, "label": "Abdullah"},
+{ "id": 8, "label": "Umair"},
+{ "id": 9, "label": "Cheetah"},
+{ "id": 10, "label": "Sir_Khwaja"},
+{ "id": 11, "label": "Sir_Hassan"},
+{ "id": 12, "label": "Sir_Atif"},
+{ "id": 13, "label": "Maam_Behjat"},
+{ "id": 14, "label": "Sir_Zaheer"}
+],
+"edges": [
+{ "from": 0, "to": 1, "weight": 1},
+{ "from": 0, "to": 2, "weight": 4},
+{ "from": 1, "to": 3, "weight": 2},
+{ "from": 2, "to": 3, "weight": 5},
+{ "from": 3, "to": 4, "weight": 1},
+{ "from": 4, "to": 5, "weight": 3},
+{ "from": 6, "to": 7, "weight": 4},
+{ "from": 7, "to": 8, "weight": 1},
+{ "from": 8, "to": 9, "weight": 2},
+{ "from": 0, "to": 10, "weight": 2},
+{ "from": 5, "to": 11, "weight": 1},
+{ "from": 1, "to": 12, "weight": 3},
+{ "from": 3, "to": 13, "weight": 2},
+{ "from": 8, "to": 14, "weight": 4},
+{ "from": 6, "to": 11, "weight": 1},
+{ "from": 4, "to": 0, "weight": 2},
+{ "from": 10, "to": 9, "weight": 3}
+]
+}
